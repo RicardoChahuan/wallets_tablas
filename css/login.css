@@ -1,0 +1,30 @@
+body{
+    background-position: center;
+    background:white;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment:fixed;
+}
+.formulario{
+    background: rgba(85, 48, 48, 0.5);
+    padding: 20px;
+    border-radius: 10PX;
+    box-shadow: 0 0 30px rgba(243, 84, 10, 0.568);
+    color: rgb(240, 198, 10);
+}
+.ingresar{
+    background: #d49f0b;
+    padding: 10px;
+    font-size: 16px;
+    font-weight: 700!important;
+    color: white;
+    box-shadow: 0 0 30px rgba(243, 84, 10, 0.568);  
+    transition: 0.5s ease-in;  
+}
+.ingresar :hover{
+    color: white;
+}
+btn btn-success{
+    padding: 20px 50px;
+    border-radius: 10PX;
+}
